@@ -17,7 +17,7 @@ namespace Laboratorio_3_OOP_201902
         //Constructor
         public Game()
         {
-
+            List<SpecialCard> Captain = new List<SpecialCard>();
         }
 
         //Propiedades
@@ -66,6 +66,17 @@ namespace Laboratorio_3_OOP_201902
         }
 
         //Metodos
+        public List AddCaptainCard(Card card, int PlayerId = -1)
+        {
+            if (PlayerId == 0 || PlayerId == 1)
+            {
+                if (card == captainCard)
+                {
+                    Captain.Add(card)
+                }
+            }
+        }
+
         public bool CheckIfEndGame()
         {
             if (players[0].LifePoints == 0 || players[1].LifePoints == 0)

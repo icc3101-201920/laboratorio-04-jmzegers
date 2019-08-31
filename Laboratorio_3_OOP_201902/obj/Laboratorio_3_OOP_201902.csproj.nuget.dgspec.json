@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josemiguelzegers/Downloads/ICC3103-OOP-Solucion-Lab-03-master/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj": {}
+    "/Users/josemiguelzegers/Desktop/laboratorio-04-jmzegers/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj": {}
   },
   "projects": {
-    "/Users/josemiguelzegers/Downloads/ICC3103-OOP-Solucion-Lab-03-master/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj": {
+    "/Users/josemiguelzegers/Desktop/laboratorio-04-jmzegers/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josemiguelzegers/Downloads/ICC3103-OOP-Solucion-Lab-03-master/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj",
+        "projectUniqueName": "/Users/josemiguelzegers/Desktop/laboratorio-04-jmzegers/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj",
         "projectName": "Laboratorio_3_OOP_201902",
-        "projectPath": "/Users/josemiguelzegers/Downloads/ICC3103-OOP-Solucion-Lab-03-master/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj",
+        "projectPath": "/Users/josemiguelzegers/Desktop/laboratorio-04-jmzegers/Laboratorio_3_OOP_201902/Laboratorio_3_OOP_201902.csproj",
         "packagesPath": "/Users/josemiguelzegers/.nuget/packages/",
-        "outputPath": "/Users/josemiguelzegers/Downloads/ICC3103-OOP-Solucion-Lab-03-master/Laboratorio_3_OOP_201902/obj/",
+        "outputPath": "/Users/josemiguelzegers/Desktop/laboratorio-04-jmzegers/Laboratorio_3_OOP_201902/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B2F289F6-B588-4E37-8F1B-C5D933BB8413}|Default">
+  <MonoDevelop.Ide.ItemProperties.Laboratorio__3__OOP__201902 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio_3_OOP_201902" expanded="True">
+            <Node name="Laboratorio_3_OOP_201902" expanded="True">
+              <Node name="Cards" expanded="True">
+                <Node name="Card.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

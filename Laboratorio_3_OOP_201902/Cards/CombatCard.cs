@@ -13,11 +13,16 @@ namespace Laboratorio_3_OOP_201902.Cards
         //Constructor
         public CombatCard(string name, string type, string effect, int attackPoints, bool hero)
         {
-            Name = name;
-            Type = type;
-            Effect = effect;
-            AttackPoints = attackPoints;
-            Hero = hero;
+            Name = EnumType.name;
+            (Enums)Enum.Parse(typeof(Enums), name)
+            Type = EnumType.type;
+            (Enums)Enum.Parse(typeof(Enums), type)
+            Effect = EnumType.effect;
+            (Enums)Enum.Parse(typeof(Enums), effect)
+            AttackPoints = EnumType.attackPoints;
+            (Enums)Enum.Parse(typeof(Enums), attackPoints)
+            Hero = EnumType.hero;
+            (Enums)Enum.Parse(typeof(Enums), hero)
         }
 
         //Propiedades

@@ -165,9 +165,3 @@ namespace Laboratorio_3_OOP_201902
         }
     }
 }
-
-
-public static void Main(string[] args)
-{
-
-}

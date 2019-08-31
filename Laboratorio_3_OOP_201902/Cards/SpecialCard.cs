@@ -24,10 +24,13 @@ namespace Laboratorio_3_OOP_201902.Cards
         //Constructor
         public SpecialCard(string name, string type, string effect)
         {
-            Name = name;
-            Type = type;
-            Effect = effect;
-            BuffType = null;
+            Name = EnumType.name;
+            (Enums)Enum.Parse(typeof(Enums), name)
+            Type = EnumType.type;
+            (Enums)Enum.Parse(typeof(Enums), type)
+            Effect = EnumType.effect;
+            (Enums)Enum.Parse(typeof(Enums), effect)
+            BuffType = EnumType.None;
         }
 
 

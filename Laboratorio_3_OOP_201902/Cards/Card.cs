@@ -2,12 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace Laboratorio_3_OOP_201902.Cards
 {
     public abstract class Card
     {
+        (Enums) Enum.Parse(typeof(Enums), name)
         //Atributos
         protected string name;
+        (Enums) Enum.Parse(typeof(Enums), name)
         protected string EnumType;
         protected string effect;
 
